@@ -7,5 +7,4 @@ export interface UserModel {
   userBirthDay: string;
   userTelePhone: string;
   userCreationDate: string;
-  userPass: string;
 }
